@@ -40,18 +40,15 @@
 ---
 ### Connect with me:
 
-[![website](./youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
-[![website](./youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
+[![website](./twitter-light.svg)](#gh-light-mode-only)
+[![website](./twitter-dark.svg)](#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
-[![website](./twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
+[![website](./linkedin-light.svg)](https://www.linkedin.com/in/dicky-tegar-jalilullah-s-si-b75390250#gh-light-mode-only)
+[![website](./linkedin-dark.svg)](https://www.linkedin.com/in/dicky-tegar-jalilullah-s-si-b75390250#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
+[![website](./instagram-light.svg)](https://www.instagram.com/jalilullah_#gh-light-mode-only)
+[![website](./instagram-dark.svg)](https://www.instagram.com/jalilullah_#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
-[![website](./instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
 
 
-
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
+[webdev]: https://github.com/DickyTegarJ/DickyTegarJ
